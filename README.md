@@ -10,3 +10,4 @@ The SSD displays local time, local latitude, longitude, altitude as well as numb
 The lower part of the display shows one of the 4 satellites being tracked every 15 seconds.  
 It shows the satellite name, UTC date and time, satellite longitude and latitude, lcoation relative to your current location (azimuth and elevation).
 It also shows TX and RX frequencies with calculated doppler.
+The four satellite being tracked are ISS, NOAA15, NOAA18 and NOAA19.
